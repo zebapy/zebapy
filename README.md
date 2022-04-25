@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm a frontend developer with a penchant for UI/UX design, located in Middlebury, Vermont.
+I'm a frontend developer with a penchant for UI & UX design, located in Middlebury, Vermont.
 
-Lately enjoying and working with:
+Lately enjoy working with:
 - [ReactJS](https://reactjs.org/)
 - [GraphQL](https://graphql.org/)
 - [Tailwind](https://tailwindcss.com/)

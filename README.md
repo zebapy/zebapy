@@ -4,6 +4,7 @@ I'm a frontend developer with a penchant for UI & UX design, located in Middlebu
 
 Lately enjoy working with:
 - [ReactJS](https://reactjs.org/)
+- [TRPC](https://trpc.io/)
 - [GraphQL](https://graphql.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [Nextjs](https://nextjs.org/)

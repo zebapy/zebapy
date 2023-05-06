@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a frontend developer with an eye for UI & UX design, located in Middlebury, Vermont.
+I'm a frontend developer with penchant for UI & UX design, located in Middlebury, Vermont.
 
 Lately enjoy working with:
 - [ReactJS](https://reactjs.org/)

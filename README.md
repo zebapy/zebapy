@@ -2,7 +2,7 @@
 
 I'm a frontend developer with penchant for UI & UX design, located in Middlebury, Vermont.
 
-Lately enjoy working with:
+Some of my favorite tech lately:
 - [ReactJS](https://reactjs.org/)
 - [TRPC](https://trpc.io/)
 - [GraphQL](https://graphql.org/)

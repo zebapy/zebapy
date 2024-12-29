@@ -4,6 +4,7 @@ I'm a frontend developer with an appetite for UI & UX design, located in Middleb
 
 Some of my favorite tech:
 - [ReactJS](https://reactjs.org/)
+- [TanStack](https://tanstack.com/)
 - [TRPC](https://trpc.io/)
 - [GraphQL](https://graphql.org/)
 - [Tailwind](https://tailwindcss.com/)

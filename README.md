@@ -6,6 +6,7 @@ Some of my favorite tech:
 - [ReactJS](https://reactjs.org/)
 - [TanStack](https://tanstack.com/)
 - [TRPC](https://trpc.io/)
+- [OpenAPI](https://swagger.io/specification/)
 - [GraphQL](https://graphql.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [PhosphorIcons](https://phosphoricons.com/)

@@ -6,9 +6,8 @@ I'm a frontend developer with an appetite for UI & UX design, located in Middleb
 
 Currently building React web apps and REST APIs at Faraday.
 
-> **AI agents for predicting customer behavior**
-> 
-> Faraday gives data science & engineering teams everything they need to build breakthrough customer experiences. Data, AI agents, and automation — point-and-click or API.
+> Predict customer behavior the speedy way
+> Faraday gives data science & engineering teams everything they need to build breakthrough customer experiences. Data, AI, and automation — point-and-click or API.
 >
 > https://faraday.ai
 

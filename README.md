@@ -1,15 +1,13 @@
 # Hi there 👋
 
-I'm a frontend developer with an appetite for UI & UX design, located in Middlebury, Vermont.
+I'm a fullstack developer with an appetite for UI & UX design, located in Vermont.
 
 ---
 
-Currently building React web apps and REST APIs at Faraday.
+Currently building context provisioning tools for AI agents and B2C companies at https://faraday.ai
 
-> Predict customer behavior the speedy way
-> Faraday gives data science & engineering teams everything they need to build breakthrough customer experiences. Data, AI, and automation — point-and-click or API.
->
-> https://faraday.ai
+> AI agents and workflows need rich data to create modern customer experiences. Faraday provides context on 240 million U.S. adults via MCP, real-time API, and batch deployment.
+
 
 ---
 
